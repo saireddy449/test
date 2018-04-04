@@ -3,3 +3,6 @@ excel ribbon presenter
 maintains ribbon control and add some extra addins
 
 ems tools are added
+
+
+initiate and finalize has been added
